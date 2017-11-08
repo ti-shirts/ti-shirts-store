@@ -31,23 +31,23 @@
 <tr>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfG1H36-kgR_3bGHqgaEYPmQULgmLJS31LUlMzRR3wlHpLkOg/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd0JtjpRru6U-omHFN8-OCjCIYTD_BKRtkvdWIYUzBEGICTfQ/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfG1H36-kgR_3bGHqgaEYPmQULgmLJS31LUlMzRR3wlHpLkOg/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd0JtjpRru6U-omHFN8-OCjCIYTD_BKRtkvdWIYUzBEGICTfQ/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSed8V8frurBuZuMWOH-8vCozKkrq_6MPPafCVi0jAU7tFN5fQ/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc4ifpMAfu_pb4RO3b4qiJ4L155JUVjH7bJmaWI4vuN52M6gA/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSed8V8frurBuZuMWOH-8vCozKkrq_6MPPafCVi0jAU7tFN5fQ/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc4ifpMAfu_pb4RO3b4qiJ4L155JUVjH7bJmaWI4vuN52M6gA/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScagMs1YVJqk1aQwDGGraWzoV7tSowm35wErMxcl3je1s0QXA/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSec9G-bxZHDHKwS9ME06Kn3gaUmcc8gf2vUTUgKDl2qKgmQDQ/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScagMs1YVJqk1aQwDGGraWzoV7tSowm35wErMxcl3je1s0QXA/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSec9G-bxZHDHKwS9ME06Kn3gaUmcc8gf2vUTUgKDl2qKgmQDQ/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf7xzPe-DzzLgdEgGpOr6vfTEiPemW1wsqoeKqCitzqgUq6zg/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc0NBUw1U-7THdzAsjCa0zg5ryqnUR3uh5OubnWSyUrK5Wk0A/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf7xzPe-DzzLgdEgGpOr6vfTEiPemW1wsqoeKqCitzqgUq6zg/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc0NBUw1U-7THdzAsjCa0zg5ryqnUR3uh5OubnWSyUrK5Wk0A/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
 </tr>
 </table>
@@ -63,23 +63,23 @@
 <tr>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdfnyoD2ijK1LyuA22tFc3gsZcFUX8UD2yTAgGDGHePuXmLhQ/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfkZJGc5jepLOlBLrQuGpYMkEjCAw-MmgbHE7l954GOfoPn3w/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdfnyoD2ijK1LyuA22tFc3gsZcFUX8UD2yTAgGDGHePuXmLhQ/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfkZJGc5jepLOlBLrQuGpYMkEjCAw-MmgbHE7l954GOfoPn3w/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdkfgtHypwnJKFeflMkkwLrEFhLO9YXapJZOrUe4Kvft0HVlA/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfxdYOpCId9uX7UEgE4ytYdmRWdGFVYm7I0Dg-7lrLSqtXEnw/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdkfgtHypwnJKFeflMkkwLrEFhLO9YXapJZOrUe4Kvft0HVlA/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfxdYOpCId9uX7UEgE4ytYdmRWdGFVYm7I0Dg-7lrLSqtXEnw/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdAMuqTMEu8NkCUysPdsHr10u3ZGMPFAc3ETE1mF2tunUHLwg/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdzCqspIZVgvyHKoPo0gWUtuDxP4F0nj0JceOoj3zzNDDwJDQ/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdAMuqTMEu8NkCUysPdsHr10u3ZGMPFAc3ETE1mF2tunUHLwg/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdzCqspIZVgvyHKoPo0gWUtuDxP4F0nj0JceOoj3zzNDDwJDQ/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
     <td>
          de <strike>R$59,00</strike><br>por R$ 49,90<br>
-         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdq8c24XIuPQ_H0nxL1VoqnW0BFKVcjJxxX_2bqZZw1LOqlFA/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf3VRI9tTLXMvX7gOH8Ff8KmO29OtAdFgI2zLaHRMaChaRDkg/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdq8c24XIuPQ_H0nxL1VoqnW0BFKVcjJxxX_2bqZZw1LOqlFA/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf3VRI9tTLXMvX7gOH8Ff8KmO29OtAdFgI2zLaHRMaChaRDkg/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
 </tr>
 </table>
@@ -97,20 +97,30 @@
 <tr>
     <td>
          de <strike>R$39,90</strike><br>por R$ 29,90<br>
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLScozek9qxDuG1ZkMGMbccqvzZHlHGi-pN536mN_QbLN6Hx4PA/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8SZelfgsYT6sffQzbs9O4E1crZr3oPZTnGaIwO3YplL2IZw/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a href="https://docs.google.com/forms/d/e/1FAIpQLScozek9qxDuG1ZkMGMbccqvzZHlHGi-pN536mN_QbLN6Hx4PA/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8SZelfgsYT6sffQzbs9O4E1crZr3oPZTnGaIwO3YplL2IZw/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
     <td>
          de <strike>R$39,90</strike><br>por R$ 29,90<br>
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6r8mlPcA6Ot1AcPh2odZQc_wrfU7vP-bSKyKHgr5MGb5Enw/viewform?usp=sf_link">COMPRAR</a> (Retirada RJ)<br>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGFBC2FiFQQQvqssjy9Zq_JbJwpBsL8T55a0ac0AL9US29Zg/viewform?usp=sf_link">COMPRAR com entrega</a>
+         <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6r8mlPcA6Ot1AcPh2odZQc_wrfU7vP-bSKyKHgr5MGb5Enw/viewform?usp=sf_link">COMPRAR (envio R$0 RJ)</a> <a href="#envio-grátis">?</a><br>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGFBC2FiFQQQvqssjy9Zq_JbJwpBsL8T55a0ac0AL9US29Zg/viewform?usp=sf_link">COMPRAR (envio pago)</a> <a href="#envio-correios">?</a>
     </td>
 </tr>
 </table>
+
+## Envio-Grátis
+Nessa forma de entrega a TI-Shirts e comprador escolhem um dos pontos de retirada, dia e local para a entrega.
+### Pontos de retirada
+- Estação de Metrô da Cinelândia (Centro RJ)
+
+## Envio-Correios
+Nessa forma de entrega o comprador informa seu endereço no formulário e a TI-Shirts enviará um email com o link para pagamento do(s) produto(s) e do frete.
+
+## Dúvidas
+
+Fique à vontade para abrir e/ou ler nossas issues ou entrar em <a href="#contato">contato</a>.
 
 
 ## Contato
 
 Envie em contato através do email loja.ti.shirts@gmail.com
-
-
