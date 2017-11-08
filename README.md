@@ -1,39 +1,18 @@
 <h1 align="center"><img src="https://github.com/ti-shirts/store/blob/master/logo-ti-shirt.png" width="200" alt="ti-shirts"></h1>
-[Camisetas](#camisetas) | [Canecas](#canecas) | [Dúvidas](#dúvidas) | [Contato](#Contato) 
+
+-------
+<p align="center">
+    <a href="#Camisetas">Camisetas</a> &bull;
+    <a href="#Canecas">Canecas</a> &bull;
+    <a href="#Dúvidas">Dúvidas</a> &bull;
+    <a href="#Contato">Contato</a>
+</p>
+-------
 
 
 
-
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-Testando
-
-
-(#camisetas) camisetas
-
-
-
-
-
+## Camisetas
+## Canecas
+## Dúvidas
+## Contato
 
