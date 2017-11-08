@@ -2,10 +2,10 @@
 
 
 <p align="center">
-    <a href="#Camisetas">Camisetas</a> &bull;
-    <a href="#Canecas">Canecas</a> &bull;
-    <a href="#Dúvidas">Dúvidas</a> &bull;
-    <a href="#Contato">Contato</a>
+    <a href="#camisetas">Camisetas</a> &bull;
+    <a href="#canecas">Canecas</a> &bull;
+    <a href="#dúvidas">Dúvidas</a> &bull;
+    <a href="#contato">Contato</a>
 </p>
 
 ## Camisetas
