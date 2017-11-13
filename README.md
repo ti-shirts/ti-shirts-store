@@ -38,6 +38,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd0JtjpRru6U-omHFN8-OCjCIYTD_BKRtkvdWIYUzBEGICTfQ/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -55,6 +57,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc4ifpMAfu_pb4RO3b4qiJ4L155JUVjH7bJmaWI4vuN52M6gA/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -72,6 +76,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSec9G-bxZHDHKwS9ME06Kn3gaUmcc8gf2vUTUgKDl2qKgmQDQ/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -89,6 +95,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc0NBUw1U-7THdzAsjCa0zg5ryqnUR3uh5OubnWSyUrK5Wk0A/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -118,6 +126,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfkZJGc5jepLOlBLrQuGpYMkEjCAw-MmgbHE7l954GOfoPn3w/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -135,6 +145,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfxdYOpCId9uX7UEgE4ytYdmRWdGFVYm7I0Dg-7lrLSqtXEnw/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -152,6 +164,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdzCqspIZVgvyHKoPo0gWUtuDxP4F0nj0JceOoj3zzNDDwJDQ/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -169,6 +183,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+            </tr>
+            <tr>
                 <td>
                     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf3VRI9tTLXMvX7gOH8Ff8KmO29OtAdFgI2zLaHRMaChaRDkg/viewform?usp=sf_link">
                         <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg"></a><br>
@@ -200,6 +216,8 @@
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+                </tr>
+                <tr>
                 <td align="center">
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSd8SZelfgsYT6sffQzbs9O4E1crZr3oPZTnGaIwO3YplL2IZw/viewform?usp=sf_link">
                          <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg">
@@ -214,10 +232,12 @@
          <table align="center">
             <tr>
                 <td align="center">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6r8mlPcA6Ot1AcPh2odZQc_wrfU7vP-bSKyKHgr5MGb5Enw/viewform?usp=sf_link"
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6r8mlPcA6Ot1AcPh2odZQc_wrfU7vP-bSKyKHgr5MGb5Enw/viewform?usp=sf_link">
                     <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-gratis.png"></a><br>
                     <a href="#envio-grátis">[?] ver condições</a><br>
                 </td>
+                </tr>
+                <tr>
                 <td align="center">
                     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdGFBC2FiFQQQvqssjy9Zq_JbJwpBsL8T55a0ac0AL9US29Zg/viewform?usp=sf_link">
                          <img src="https://github.com/ti-shirts/store/blob/master/src/btn-frete-padrao.jpg">
