@@ -16,8 +16,8 @@
 
 ## Camisetas
 <p align="center">
-    <a href="##femininas">Femininas</a> &bull;
-    <a href="##masculinas">Masculinas</a>
+    <a href="#femininas">Femininas</a> &bull;
+    <a href="#masculinas">Masculinas</a>
 </p>
 
 ### Femininas
