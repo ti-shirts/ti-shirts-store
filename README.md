@@ -30,7 +30,7 @@
 </tr>
 <tr>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -49,7 +49,7 @@
         </table>
     </td>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -68,7 +68,7 @@
         </table>
     </td>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -87,7 +87,7 @@
         </table>
     </td>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -118,7 +118,7 @@
 </tr>
 <tr>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -137,7 +137,7 @@
         </table>
     </td>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -156,7 +156,7 @@
         </table>
     </td>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -175,7 +175,7 @@
         </table>
     </td>
     <td>
-         de <strike>R$59,00</strike><br>por 2x de R$ 24,95<br>
+         de <strike>R$59,00</strike><br><strong>por 2x de R$ 24,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -208,7 +208,7 @@
 </tr>
 <tr>
     <td>
-         de <strike>R$39,90</strike><br>por 2x de R$ 14,95<br>
+         de <strike>R$39,90</strike><br><strong>por 2x de R$ 14,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
@@ -228,7 +228,7 @@
         </table>
     </td>
     <td>
-         de <strike>R$39,90</strike><br>por 2x de R$ 14,95<br>
+         de <strike>R$39,90</strike><br><strong>por 2x de R$ 14,95</strong><br>
          <table align="center">
             <tr>
                 <td width="200px" align="center">
